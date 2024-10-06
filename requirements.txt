@@ -1,0 +1,6 @@
+jax
+numpy
+pytorch
+tensorflow
+pandas
+matplotlib
